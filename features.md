@@ -7,3 +7,6 @@
 EDITTED HAHA
 EDITED AGAIN
 * auto lighting
+* auto lighting
+* new feature
+* new new feature
