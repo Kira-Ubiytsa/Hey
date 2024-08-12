@@ -1,7 +1,6 @@
-/*
-Features-
+# Feature
 
-Turning
-Speed
-Light Activation
-*\
+* auto-pilot
+* remote start engine
+* gps
+* auto lighting
